@@ -24,11 +24,19 @@ It focuses on **2017–2023**, compares **Pre-COVID vs Post-COVID**, and studies
 ---
 
 ## 🔹 Insights  
-- **Food & Beverages** had the highest volatility, especially **Oils & Fats**  
-- **Housing** stayed relatively stable during COVID  
-- **Oil Prices** strongly correlated with:  
-  - Fuel & Light (0.57)  
-  - Food & Beverages (0.58)  
+- Food & Beverages showed the highest volatility, mainly driven by Oils & Fats.
+
+- Housing remained stable during and after COVID-19.
+
+- Oil prices had a strong correlation with:
+ Fuel & Light (0.57)
+ Food & Beverages (0.58)
+
+- Post-COVID inflation trends show gradual normalization across sectors.
+
+🧾 Conclusion
+
+The analysis reveals that global oil fluctuations and the COVID-19 period significantly influenced India’s inflation patterns. By 2023, CPI levels began to stabilize, indicating improved economic recovery and price control.
 
 ---
 
