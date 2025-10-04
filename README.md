@@ -9,8 +9,8 @@ It focuses on **2017–2023**, compares **Pre-COVID vs Post-COVID**, and studies
 ---
 
 ## 🔹 Key Highlights  
-- Highest contribution by Category for **May 2023**
-- Cleaned CPI dataset using **Power Query**  
+- Cleaned CPI dataset using **Power Query** 
+- Highest contribution by Category for **May 2023** 
 - Calculated **Month-over-Month (MoM)** and **Year-over-Year (YoY)** inflation  
 - Analyzed **Food & Beverages** subcategories  
 - Compared **Pre-COVID vs Post-COVID inflation trends**  
