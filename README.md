@@ -1,4 +1,4 @@
-# 📊 CPI India Inflation Analysis (2013–2023)
+# 📊 CPI India Inflation Analysis (2017–2023)
 
 ## 🔹 Overview  
 This project analyzes **India’s Consumer Price Index (CPI)** trends across multiple sectors.  
