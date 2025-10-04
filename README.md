@@ -48,4 +48,4 @@ It focuses on **2017–2023**, compares **Pre-COVID vs Post-COVID**, and studies
 ## 👤 About the Author  
 **Rahul Singh**  
 MBA Candidate | Aspiring Data Analyst  
-📌 [LinkedIn](www.linkedin.com/in/rahul-singh-184951257) | [Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)
+📌 [LinkedIn](https://www.linkedin.com/in/rahul-singh-184951257/) | [Naukri](https://www.naukri.com/mnjuser/profile?id=&altresid)
