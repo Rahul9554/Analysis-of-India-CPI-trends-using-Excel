@@ -32,7 +32,7 @@ It focuses on **2017–2023**, compares **Pre-COVID vs Post-COVID**, and studies
 
 ---
 
-## 🔹 Screenshots (Optional / Placeholder)
+## 🔹 Screenshots :
 > Replace these with actual images from your Excel dashboards  
 
 ![Dashboard Example 1](dashboard1.png)  
